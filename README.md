@@ -52,3 +52,4 @@ Thus, a user can apply only one filter or multiple filter options can be entered
     
     User can be asked if he wants to see data for one city or multiple cities,say. Then, user can enter , for instance , 3 as the value. Then, 3 placeholders may be displayed as a result. User enters 3 cities in those dynamically generated city placeholders and the data in the table is then filtered out for 3 cities instead of only 1.
 
+Live Glimpse of my project is avaialable at: https://kirtibhandari.github.io/UFOs/
